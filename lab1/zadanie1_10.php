@@ -34,6 +34,7 @@ function wypukle($number){
     }
 }
 
+
 function wklesle($number){
     for($i = $number; $i >= 1; $i--){
         for($j = $number; $j >=1; $j--){
