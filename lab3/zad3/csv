@@ -1,0 +1,3 @@
+Imię i Nazwisko;Adres;Nr karty;Email;Pobyt;Godzina;Klimatyzacja;Dziecko;Palacz
+imie nazwisko;adresik;1234;testowy@dd.pl;2021-05-14;12:00;true;false;true;
+imie nazwisko;adresik;1234;testowy@dd.pl;2021-05-14;12:00;false;true;false;
